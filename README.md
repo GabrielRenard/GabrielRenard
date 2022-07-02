@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielRenard
-- 👀 I’m interested in web development, more specifically the front-end but with a gial of becoming a full-stack developer.
+- 👀 I’m interested in web development, more specifically the front-end but with a goal of becoming a full-stack developer.
 - 🌱 I’m currently learning React JS.
 - 📫 Contact me via email: gabriel.renard@protonmail.com
 
